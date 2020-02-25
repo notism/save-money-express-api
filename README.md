@@ -1,5 +1,5 @@
 # EXPRESS REST API
-> API for project 'savemoney'
+> This is server side(api) for project 'savemoney'
 
 ## Install
 
